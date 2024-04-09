@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\module\\uipopup\\script\\popupmanagerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\script\\popupmanagerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\module\\uipopup\\script\\popupdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\script\\popupdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\module\\uipopup\\script\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\script\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|f:\\githubproject\\levomgameframework\\unity\\levomgameframework\\assets\\module\\uipopup\\example\\script\\popupitemtips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\example\\script\\popupitemtips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\scripts\\utility\\unityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\unityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\scripts\\utility\\resourceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\resourceutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\module\\uipopup\\example\\script\\demoevt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\example\\script\\demoevt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|f:\\githubproject\\levomgameframework\\unity\\levomgameframework\\assets\\module\\uipopup\\example\\script\\demopopupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\module\\uipopup\\example\\script\\demopopupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\scripts\\utility\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\assets\\scripts\\utility\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC50512D-FD76-4173-779B-12429BB624B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PopupDefine.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Script\\PopupDefine.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupDefine.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Script\\PopupDefine.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:29:10.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PopupManager.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Script\\PopupManager.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupManager.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Script\\PopupManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:29:16.26Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopupManagerHelper.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupManagerHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Script\\PopupManagerHelper.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Script\\PopupManagerHelper.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Script\\PopupManagerHelper.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAQwHsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:29:19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DemoEvt.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\DemoEvt.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Example\\Script\\DemoEvt.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\DemoEvt.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Example\\Script\\DemoEvt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:33:08.215Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DemoPopupManager.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\DemoPopupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Example\\Script\\DemoPopupManager.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\DemoPopupManager.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Example\\Script\\DemoPopupManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:32:21.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PopupItemTips.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\PopupItemTips.cs",
+              "RelativeDocumentMoniker": "Assets\\Module\\UIPopup\\Example\\Script\\PopupItemTips.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Module\\UIPopup\\Example\\Script\\PopupItemTips.cs",
+              "RelativeToolTip": "Assets\\Module\\UIPopup\\Example\\Script\\PopupItemTips.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:54:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnityHelper.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\UnityHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\UnityHelper.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\UnityHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\UnityHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:15:55.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceUtility.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\ResourceUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\ResourceUtility.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\ResourceUtility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\ResourceUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:13:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Messenger.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\Messenger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\Messenger.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\Messenger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\Messenger.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwMMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:57:53.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Log.cs",
+              "DocumentMoniker": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\Log.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\Log.cs",
+              "ToolTip": "F:\\GitHubProject\\LevomGameFramework\\Unity\\LevomGameFramework\\Assets\\Scripts\\Utility\\Log.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:57:51.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
