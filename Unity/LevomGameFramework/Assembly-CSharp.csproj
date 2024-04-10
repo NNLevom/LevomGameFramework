@@ -60,16 +60,22 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Utility\Log.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\DemoEvt.cs" />
+    <Compile Include="Assets\Module\NodePath\Script\Node.cs" />
     <Compile Include="Assets\Module\Behavior\Script\Selector.cs" />
     <Compile Include="Assets\Scripts\Utility\VpTimer.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\DemoPopupManager.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\PopupItemTips.cs" />
     <Compile Include="Assets\Scripts\Utility\CallBack.cs" />
+    <Compile Include="Assets\Module\NodePath\Script\NodePath.cs" />
     <Compile Include="Assets\Scripts\Utility\Messenger.cs" />
+    <Compile Include="Assets\Module\NodePath\Example\Scripts\MapGridItem.cs" />
     <Compile Include="Assets\Module\Behavior\Script\ActionNode.cs" />
     <Compile Include="Assets\Module\Behavior\Script\Sequence.cs" />
+    <Compile Include="Assets\Module\NodePath\Script\NodeMono.cs" />
     <Compile Include="Assets\Module\UIPopup\Script\PopupManagerHelper.cs" />
+    <Compile Include="Assets\Module\NodePath\Script\INode.cs" />
     <Compile Include="Assets\Module\Behavior\Script\Node.cs" />
+    <Compile Include="Assets\Module\NodePath\Example\Scripts\CreteMap.cs" />
     <Compile Include="Assets\Scripts\Utility\VpTimerUtility.cs" />
     <Compile Include="Assets\Module\UIPopup\Script\PopupManager.cs" />
     <Compile Include="Assets\Scripts\Utility\UnityHelper.cs" />
@@ -77,6 +83,29 @@
     <Compile Include="Assets\Module\UIPopup\Script\PopupDefine.cs" />
     <Compile Include="Assets\Module\Behavior\Example\Script\DemoBehaviorTree.cs" />
     <Compile Include="Assets\Scripts\Utility\ResourceUtility.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
