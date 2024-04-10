@@ -60,16 +60,22 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Utility\Log.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\DemoEvt.cs" />
+    <Compile Include="Assets\Module\Behavior\Script\Selector.cs" />
     <Compile Include="Assets\Scripts\Utility\VpTimer.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\DemoPopupManager.cs" />
     <Compile Include="Assets\Module\UIPopup\Example\Script\PopupItemTips.cs" />
     <Compile Include="Assets\Scripts\Utility\CallBack.cs" />
     <Compile Include="Assets\Scripts\Utility\Messenger.cs" />
+    <Compile Include="Assets\Module\Behavior\Script\ActionNode.cs" />
+    <Compile Include="Assets\Module\Behavior\Script\Sequence.cs" />
     <Compile Include="Assets\Module\UIPopup\Script\PopupManagerHelper.cs" />
+    <Compile Include="Assets\Module\Behavior\Script\Node.cs" />
     <Compile Include="Assets\Scripts\Utility\VpTimerUtility.cs" />
     <Compile Include="Assets\Module\UIPopup\Script\PopupManager.cs" />
     <Compile Include="Assets\Scripts\Utility\UnityHelper.cs" />
+    <Compile Include="Assets\Module\Behavior\Script\Inverter.cs" />
     <Compile Include="Assets\Module\UIPopup\Script\PopupDefine.cs" />
+    <Compile Include="Assets\Module\Behavior\Example\Script\DemoBehaviorTree.cs" />
     <Compile Include="Assets\Scripts\Utility\ResourceUtility.cs" />
   </ItemGroup>
   <ItemGroup>
